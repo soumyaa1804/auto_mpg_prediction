@@ -18,6 +18,7 @@ Use this link to make predictions by passing the vhicle configuration in json fo
 
 Example configuration:
 
+```
 vehicle_config = {
 
     'Cylinders': [4, 6, 8],
@@ -33,8 +34,9 @@ vehicle_config = {
     'Model Year': [81, 80, 78],
 
     'Origin': [3, 2, 1]
-    
+
 }
+```
 
 Request the URL:
 
