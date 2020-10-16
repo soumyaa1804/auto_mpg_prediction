@@ -50,8 +50,7 @@ r.text.strip()
 
 **Output**:
 
-```
-'{"mpg_predictions":[26.139999999999997,26.550000000000004,19.129999999999995]}'
-​```
+` '{"mpg_predictions":[26.139999999999997,26.550000000000004,19.129999999999995]}'`
+
 
 Refer [this](https://github.com/soumyaa1804/auto_mpg_prediction/blob/master/auto_MPG_Part2.ipynb) Jupyter Notebook for code snippets.
