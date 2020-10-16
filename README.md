@@ -16,7 +16,9 @@ The data is taken from [UCI Auto MPG Dataset](https://archive.ics.uci.edu/ml/dat
 
 The model is save in the file `model.bin` using _pickle_ library. It is then hosted on **Heroku**.
 
-Use this link to make predictions by passing the vhicle configuration in json format: `https://predict-fuel-efficiency.herokuapp.com/`
+Use this link to make predictions by passing the vehicle configuration in json format: 
+
+`https://predict-fuel-efficiency.herokuapp.com/`
 
 Example configuration:
 
